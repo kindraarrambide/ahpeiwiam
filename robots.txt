@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aiwaepeix.astrillkilr.com/sitemap.xml
